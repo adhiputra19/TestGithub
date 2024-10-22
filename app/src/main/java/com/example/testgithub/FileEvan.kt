@@ -1,4 +1,9 @@
 package com.example.testgithub
 
-class FileEvan {
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+
+@Composable
+fun FileEvan(){
+    Text("Halo test")
 }
