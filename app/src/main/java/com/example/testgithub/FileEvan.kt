@@ -6,4 +6,5 @@ import androidx.compose.runtime.Composable
 @Composable
 fun FileEvan(){
     Text("Halo test")
+    Text("Halo test2")
 }
